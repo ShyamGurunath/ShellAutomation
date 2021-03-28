@@ -2,7 +2,7 @@
 
 	>Features
 
-		- **Folder creation**
-		- **Intialize a repo in Github as well as Locally**
+		- ** Folder creation **
+		- ** Intialize a repo in Github as well as Locally **
 
 
