@@ -5,6 +5,7 @@
 
 echo "Welcome! ---- ---Create a Project"
 #Your Github Accesstoken
+#Accesstoken in settings,Developer Settings.
 
 export GITHUB_TOKEN="YOURGITHUBACCESSTOKEN"
 
